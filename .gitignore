@@ -1,0 +1,13 @@
+# IDE generated files #
+#######################
+*.sublime-project
+*.sublime-workspace
+nbproject
+.idea
+*.tmproj
+.buildpath
+.cache
+.project
+.settings
+.tmproj
+*.esproj
